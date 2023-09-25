@@ -1,4 +1,4 @@
-v
+
 let BlockType = {
     DEFAULT: 'default',
     HEAD: 'head',
